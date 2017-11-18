@@ -2,5 +2,5 @@ praw
 numpy
 scipy
 matplotlib
-skimage
+scikit-image
 
